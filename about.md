@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-Some information about you!
+<p>
+<font size="4.8"  >
+<span style="color:red"> Looking at the "bright" Universe and punching numbers for the "dark" one ... ! </span>
+</font>
+</p>
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+<p>
+I am interested in topics related to gravitational lensing, baryonic physics, large scale structure formation, dark energy and modified gravity.
 
-### Contact me
+</p>
 
-[email@domain.com](mailto:email@domain.com)
