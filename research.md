@@ -15,15 +15,19 @@ permalink: /research/
 <P><HR>
 
 
+
 <p>
 I am interested in topics related to <a href="#gravitational lensing">weak lensing</a>, <a href="#baryonic physics">baryonic physics</a>, large scale structure formation, <a href="#dark energy">dark energy and modified gravity</a> and <a href="#Strong Lensing Cosmology">strong lensing cosmology</a>.
 </p>
 
+<br> <br /> 
 <h2><a name="gravitational lensing"></a>Weak Gravitational Lensing</h2>
 As a member of the ongoing Weak Lensing experiments, <a href="http://www.rcslens.org/"> Red Sequence Cluster Survey Lensing (RCSLenS) </a>  and <a href="http://kids.strw.leidenuniv.nl/"> Kilo Degree survey (KiDS) </a>, I am working on higher order statistics of the lensing data, feasible by this generation of surveys. 
 
 Combining it with hydrodynamical simulations, extra information about dark matter distribution and AGN feedback can be extracted. 
 
+
+<br> <br /> 
 <h2><a name="baryonic physics"></a>Baryonic physics and AGN feedback</h2>
 
 Only about 10% of
@@ -50,6 +54,9 @@ simulations, which includes different galactic feedback models, to understand th
 <a href="http://inspirehep.net/record/1291267">  Probing the diffuse baryon distribution with the lensing-tSZ cross-correlation </a>
 
 <center><img src="{{ site.baseurl }}/images/tSZLensing.png" width="400"></center>
+
+
+
 <h2><a name="dark energy"></a>Dark Energy and Modified Gravity</h2>
 
 The acceleration of the expansion of the Universe has not yet received a convincing explanation. In the last fifteen years, it has been suggested that its origin could be linked to deep issues in physics. A non-vanishing cosmological constant, which could be linked to the vacuum energy of particle physics, is still the most common and the simplest possibility. The cosmological constant could be embedded in a larger class of models, dark energy, where dynamics dictate the value of the vacuum energy. 
