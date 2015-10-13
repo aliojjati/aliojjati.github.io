@@ -5,10 +5,14 @@ permalink: /research/
 ---
 
 <p>
-<font size="4.9"  >
+<center>
+<font size="6"  >
 <span style="color:red">   <bold> Looking at the "bright" Universe and punching numbers for the "dark" one ... !  </bold></span>
 </font>
+</center>
 </p>
+
+<P><HR>
 
 
 <p>
