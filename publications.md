@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Publications
+title: 
 permalink: /publications/
 ---
 
-Some information about you!
+<ol>
+ <li>
+    <p>someone, <b>Me</b>,someone 
+(2004). Title, <i>Homoeocera stictosoma 
+(Arctiidae:Arctiinae). Journal of </i> 58(3): 173-177. </p>
+  </li>
+</ol>
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
