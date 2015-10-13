@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /teaching/
 ---
 
 Will come soon !
