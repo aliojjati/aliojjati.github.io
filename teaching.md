@@ -26,5 +26,5 @@ Co-supervised the thesis research of two PhD and two M.Sc. students, SFU, 2012-2
 * Introduction to Astrophysics (PHYS-390)
 
 ### Teaching Assistant: 
-I have been a teaching assistant for most of the undergraduate- level as well as some of the gradute-level Physics courses
+I have been a teaching assistant for most of the undergraduate-level as well as some of the gradute-level Physics courses
 

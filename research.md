@@ -6,6 +6,8 @@ permalink: /research/
 
 <p>
 <center>
+In a nutshell:
+<br> <br /> 
 <font size="6"  >
 <span style="color:red">   <bold> Looking at the "bright" Universe and punching numbers for the "dark" one ... !  </bold></span>
 </font>
@@ -14,7 +16,7 @@ permalink: /research/
 
 <P><HR>
 
-
+<br> <br /> 
 
 <p>
 I am interested in topics related to <a href="#gravitational lensing">weak lensing</a>, <a href="#baryonic physics">baryonic physics</a>, large scale structure formation, <a href="#dark energy">dark energy and modified gravity</a> and <a href="#Strong Lensing Cosmology">strong lensing cosmology</a>.
